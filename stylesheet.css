@@ -152,6 +152,8 @@ body
 }
 
 .about-img img{
+    display: block;
+    margin-left: 20%;
     padding-bottom: 20%;
     max-width: 430px;
     height: auto;
